@@ -4,5 +4,6 @@
 <p style="font-size: 20px; font-weight: bold; color: black;">
     🔄 Vuelva a intentar más tarde
 </p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_SAT_Guatemala.svg" alt="Marca de Agua" style="width: 150px;">
 
+<!-- Imagen con estilo simple -->
+<p><img src="https://infase.net/wp-content/uploads/2021/05/1_Mesa-de-trabajo-1-copia-2-1.png" alt="Imagen de Error" style="max-width: 100%; height: auto;"></p>
