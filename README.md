@@ -36,6 +36,7 @@
             🔄 Vuelva a intentar más tarde
         </p>
     </div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Logo_SAT_Guatemala.svg/800px-Logo_SAT_Guatemala.svg.png" alt="Marca de Agua" class="watermark">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_SAT_Guatemala.svg" alt="Marca de Agua" class="watermark">
 </body>
 </html>
+
