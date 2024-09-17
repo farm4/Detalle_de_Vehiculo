@@ -1,5 +1,5 @@
 <h1 style="font-size: 30px; font-weight: bold; color: blue;">
-    ☁️ ERROR-502  ERROR DE COMUNICACION CON EL SERVIDOR
+    ❌ ERROR-502  ERROR DE COMUNICACION CON EL SERVIDOR
 </h1>
 <p style="font-size: 20px; font-weight: bold; color: blue;">
     🔄 Vuelva a intentar más tarde
