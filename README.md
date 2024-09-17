@@ -1,7 +1,7 @@
-<h1 style="font-size: 30px; font-weight: bold; color: black;">
+<h1 style="font-size: 30px; font-weight: bold; color: blue;">
     ☁️ ERROR 502 BAD GATEWAY
 </h1>
-<p style="font-size: 20px; font-weight: bold; color: black;">
+<p style="font-size: 20px; font-weight: bold; color: blue;">
     🔄 Vuelva a intentar más tarde
 </p>
 
