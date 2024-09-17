@@ -1,4 +1,2 @@
-    <h1>Error 502 - Bad Gateway</h1>
-    <p>Vuelva a intentarlo más tarde.</p>
-</body>
-</html>
+<h1 style="font-size: 20px; font-weight: bold;">ERROR 502 BAD GATEWAY</h1>
+<p style="font-size: 20px; font-weight: bold;">Vuelva a intentar mas tarde</p>
